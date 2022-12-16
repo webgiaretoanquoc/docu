@@ -1,0 +1,1484 @@
+Uri: https://bahuy.com/wp-content/uploads/2015/07/Logo1.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2015\07\Logo1.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/author/admin/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\author\admin\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/author/admin/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/author/admin/page/2/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\author\admin\page\2\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/bai-viet/khong-phan-loai/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\bai-viet\khong-phan-loai\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/bai-viet/khong-phan-loai/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\bai-viet\khong-phan-loai\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/bai-viet/khong-phan-loai/page/2/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\bai-viet\khong-phan-loai\page\2\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/bai-viet/tin-tuc/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\bai-viet\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/bai-viet/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\bai-viet\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/chao-moi-nguoi/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\chao-moi-nguoi\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/chao-moi-nguoi/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\chao-moi-nguoi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/danh-muc/ban-ghe-cafe-bar/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\ban-ghe-cafe-bar\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/danh-muc/ban-ghe-cafe-bar/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\ban-ghe-cafe-bar\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/danh-muc/ban-ghe-lop-hoc-trung-tam/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\ban-ghe-lop-hoc-trung-tam\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/danh-muc/ban-ghe-lop-hoc-trung-tam/ban-ghe-hoc-sinh-sinh-vien/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\ban-ghe-lop-hoc-trung-tam\ban-ghe-hoc-sinh-sinh-vien\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/danh-muc/ban-ghe-lop-hoc-trung-tam/ban-ghe-hoc-sinh-sinh-vien/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\ban-ghe-lop-hoc-trung-tam\ban-ghe-hoc-sinh-sinh-vien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/danh-muc/ban-ghe-lop-hoc-trung-tam/bang/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\ban-ghe-lop-hoc-trung-tam\bang\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/danh-muc/ban-ghe-lop-hoc-trung-tam/bang/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\ban-ghe-lop-hoc-trung-tam\bang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/danh-muc/ban-ghe-lop-hoc-trung-tam/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\ban-ghe-lop-hoc-trung-tam\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/danh-muc/ban-ghe-lop-hoc-trung-tam/ghe-gap-ghe-lien-ban/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\ban-ghe-lop-hoc-trung-tam\ghe-gap-ghe-lien-ban\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/danh-muc/ban-ghe-lop-hoc-trung-tam/ghe-gap-ghe-lien-ban/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\ban-ghe-lop-hoc-trung-tam\ghe-gap-ghe-lien-ban\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/danh-muc/ban-tra-sofa/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\ban-tra-sofa\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/danh-muc/ban-tra-sofa/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\ban-tra-sofa\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/danh-muc/ghe-bang-cho/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\ghe-bang-cho\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/danh-muc/ghe-bang-cho/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\ghe-bang-cho\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/danh-muc/ghe-hoi-truong/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\ghe-hoi-truong\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/danh-muc/ghe-hoi-truong/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\ghe-hoi-truong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/danh-muc/gia-ke/ke-sat/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\gia-ke\ke-sat\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/danh-muc/gia-ke/ke-sat/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\gia-ke\ke-sat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/danh-muc/gia-ke/ke-sieu-thi/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\gia-ke\ke-sieu-thi\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/danh-muc/gia-ke/ke-sieu-thi/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\gia-ke\ke-sieu-thi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/danh-muc/gia-ke/ke-tivi/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\gia-ke\ke-tivi\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/danh-muc/gia-ke/ke-tivi/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\gia-ke\ke-tivi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/danh-muc/gia-ke/tu-ke-van-phong/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\gia-ke\tu-ke-van-phong\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/danh-muc/gia-ke/tu-ke-van-phong/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\gia-ke\tu-ke-van-phong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/danh-muc/giuong-sat/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\giuong-sat\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/danh-muc/giuong-sat/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\giuong-sat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/danh-muc/ket-sat/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\ket-sat\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/danh-muc/ket-sat/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\ket-sat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/danh-muc/quay-le-tan/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\quay-le-tan\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/danh-muc/quay-le-tan/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\danh-muc\quay-le-tan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/lien-he/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/san-pham/ban-ghe-cafe-go-moi-97-thanh-ly-gia-tot-nhat/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\san-pham\ban-ghe-cafe-go-moi-97-thanh-ly-gia-tot-nhat\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/san-pham/ban-nhan-vien-chan-sat-thanh-ly-gia-re-bnv334/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\san-pham\ban-nhan-vien-chan-sat-thanh-ly-gia-re-bnv334\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/san-pham/bo-ban-an-go-xoan-tu-nhien-ba1/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\san-pham\bo-ban-an-go-xoan-tu-nhien-ba1\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/san-pham/ghe-cafe-nhua-hien-dai-cf1-thanh-ly-gia-tot/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\san-pham\ghe-cafe-nhua-hien-dai-cf1-thanh-ly-gia-tot\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/san-pham/thanh-ly-150-ghe-don-cao-mat-go-thanh-ly/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\san-pham\thanh-ly-150-ghe-don-cao-mat-go-thanh-ly\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/san-pham/thanh-ly-150-ghe-xoay-luoi-van-phong-btp6/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\san-pham\thanh-ly-150-ghe-xoay-luoi-van-phong-btp6\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/san-pham/thanh-ly-300-ghe-quy-luoi-lung-cao-q12/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\san-pham\thanh-ly-300-ghe-quy-luoi-lung-cao-q12\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/san-pham/thanh-ly-50-bo-ban-tron-cafe-gia-re/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\san-pham\thanh-ly-50-bo-ban-tron-cafe-gia-re\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/san-pham/thanh-ly-500-ghe-xoay-luoi-btp4-gia-cuc-re/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\san-pham\thanh-ly-500-ghe-xoay-luoi-btp4-gia-cuc-re\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/san-pham/thanh-ly-ban-cafe-80cm-bcf1/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\san-pham\thanh-ly-ban-cafe-80cm-bcf1\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/san-pham/thanh-ly-ban-cafe-chu-nhat-1m2-mau-trang/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\san-pham\thanh-ly-ban-cafe-chu-nhat-1m2-mau-trang\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/san-pham/thanh-ly-ban-cafe-chu-nhat-1m2/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\san-pham\thanh-ly-ban-cafe-chu-nhat-1m2\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/san-pham/thanh-ly-ban-cafe-vuong-go-thong-ghep-thanh/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\san-pham\thanh-ly-ban-cafe-vuong-go-thong-ghep-thanh\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/san-pham/thanh-ly-ban-lam-viec-chan-sat-bnv3cs/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\san-pham\thanh-ly-ban-lam-viec-chan-sat-bnv3cs\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/san-pham/thanh-ly-ban-lam-viec-chan-sat-bnv7cs/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\san-pham\thanh-ly-ban-lam-viec-chan-sat-bnv7cs\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/san-pham/thanh-ly-ban-nhan-vien-1m2-bnv4-gia-re/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\san-pham\thanh-ly-ban-nhan-vien-1m2-bnv4-gia-re\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/san-pham/thanh-ly-ban-nhan-vien-bnv3-gia-tot/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\san-pham\thanh-ly-ban-nhan-vien-bnv3-gia-tot\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/tai-khoan/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\tai-khoan\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/tai-khoan/lost-password/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\tai-khoan\lost-password\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-ban-ghe-cafe-quan-bar/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-ban-ghe-cafe-quan-bar\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-ban-ghe-cafe-quan-bar/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-ban-ghe-cafe-quan-bar\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-ban-ghe-gia-dinh-sofa/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-ban-ghe-gia-dinh-sofa\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-ban-ghe-gia-dinh-sofa/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-ban-ghe-gia-dinh-sofa\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-ban-ghe-giam-doc/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-ban-ghe-giam-doc\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-ban-ghe-giam-doc/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-ban-ghe-giam-doc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-ban-ghe-hoc-sinh-sinh-vien/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-ban-ghe-hoc-sinh-sinh-vien\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-ban-ghe-hoc-sinh-sinh-vien/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-ban-ghe-hoc-sinh-sinh-vien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-ban-ghe-nhan-vien/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-ban-ghe-nhan-vien\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-ban-ghe-nhan-vien/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-ban-ghe-nhan-vien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-ban-van-phong/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-ban-van-phong\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-ban-van-phong/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-ban-van-phong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-ghe-van-phong/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-ghe-van-phong\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-ghe-van-phong/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-ghe-van-phong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-gia-ke-sieu-thi/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-gia-ke-sieu-thi\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-gia-ke-sieu-thi/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-gia-ke-sieu-thi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-giuong-tang/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-giuong-tang\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-giuong-tang/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-giuong-tang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-ke-sat-ke-de-hang/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-ke-sat-ke-de-hang\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-ke-sat-ke-de-hang/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-ke-sat-ke-de-hang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-ke-tu-van-phong-trang-tri/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-ke-tu-van-phong-trang-tri\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-ke-tu-van-phong-trang-tri/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-ke-tu-van-phong-trang-tri\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-noi-that-van-phong/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-noi-that-van-phong\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-noi-that-van-phong/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-noi-that-van-phong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-sofa-gia-re/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-sofa-gia-re\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-sofa-gia-re/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-sofa-gia-re\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-tu-van-phong/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-tu-van-phong\index.htm
+Content Type: text/html
+
+Uri: https://docu.webtudong8giay.com/thanh-ly-tu-van-phong/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\thanh-ly-tu-van-phong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/trang-chu/feed/
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\trang-chu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://docu.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.0.2
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-admin\js\password-strength-meter.min-1.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://docu.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/css/font-awesome.min.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://docu.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://docu.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://docu.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://docu.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://docu.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://docu.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: https://docu.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://docu.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.1.0
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.1.0
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.7.1.0
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://docu.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://docu.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://docu.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://docu.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://docu.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://docu.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://docu.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://docu.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://docu.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://docu.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://docu.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://docu.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://docu.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-content/themes/flatsome/assets/libs/packery.pkgd.min.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\themes\flatsome\assets\libs\packery.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/2495-247x296.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\2495-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/2495.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\2495.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/bàn-ăn-xoan-ta-247x296.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\bàn-ăn-xoan-ta-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/bàn-ăn-xoan-ta.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\bàn-ăn-xoan-ta.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/bàn-cf-chữ-nhật-247x296.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\bàn-cf-chữ-nhật-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/bàn-cf-chữ-nhật.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\bàn-cf-chữ-nhật.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/bàn-chân-sắt-chữ-u-cao-su-247x296.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\bàn-chân-sắt-chữ-u-cao-su-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/bàn-chân-sắt-chữ-u-cao-su.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\bàn-chân-sắt-chữ-u-cao-su.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/bàn-gỗ-tự-nhiên-1-247x296.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\bàn-gỗ-tự-nhiên-1-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/bàn-gỗ-tự-nhiên-1.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\bàn-gỗ-tự-nhiên-1.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/bàn-ghế-cafe-247x296.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\bàn-ghế-cafe-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/bàn-ghế-cafe.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\bàn-ghế-cafe.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/bàn-làm-việc-1m2-768x575-247x296.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\bàn-làm-việc-1m2-768x575-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/bàn-làm-việc-1m2-768x575.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\bàn-làm-việc-1m2-768x575.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/ban-cafe-247x296.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\ban-cafe-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/ban-cafe-gap-3-247x296.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\ban-cafe-gap-3-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/ban-cafe-gap-3.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\ban-cafe-gap-3.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/ban-cafe.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\ban-cafe.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/bn4.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\bn4.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/bn5.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\bn5.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/bullet2.png
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\bullet2.png
+Content Type: image/png
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/chat-icon-100x100.png
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\chat-icon-100x100.png
+Content Type: image/png
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/chat-icon-150x150.png
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\chat-icon-150x150.png
+Content Type: image/png
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/chat-icon.png
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\chat-icon.png
+Content Type: image/png
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/cs1-1-768x768-247x296.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\cs1-1-768x768-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/cs1-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\cs1-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/ghế-cf-247x296.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\ghế-cf-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/ghế-cf.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\ghế-cf.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/ghe-cafe-eames-1-247x296.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\ghe-cafe-eames-1-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/ghe-cafe-eames-1.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\ghe-cafe-eames-1.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/ghe-chan-quy-q12-1-247x296.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\ghe-chan-quy-q12-1-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/ghe-chan-quy-q12-1.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\ghe-chan-quy-q12-1.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/icon_edit_02-100x100.png
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\icon_edit_02-100x100.png
+Content Type: image/png
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/icon_edit_02-150x150.png
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\icon_edit_02-150x150.png
+Content Type: image/png
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/icon_edit_02.png
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\icon_edit_02.png
+Content Type: image/png
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/icon_edit_03-100x100.png
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\icon_edit_03-100x100.png
+Content Type: image/png
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/icon_edit_03-150x150.png
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\icon_edit_03-150x150.png
+Content Type: image/png
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/icon_edit_03.png
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\icon_edit_03.png
+Content Type: image/png
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/icon_edit_04-100x100.png
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\icon_edit_04-100x100.png
+Content Type: image/png
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/icon_edit_04-150x150.png
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\icon_edit_04-150x150.png
+Content Type: image/png
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/icon_edit_04.png
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\icon_edit_04.png
+Content Type: image/png
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/icon_edit_07-100x100.png
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\icon_edit_07-100x100.png
+Content Type: image/png
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/icon_edit_07-150x150.png
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\icon_edit_07-150x150.png
+Content Type: image/png
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/icon_edit_07.png
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\icon_edit_07.png
+Content Type: image/png
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/thanh-ly-ban-cafe-go-thong-247x296.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\thanh-ly-ban-cafe-go-thong-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/thanh-ly-ban-cafe-go-thong.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\thanh-ly-ban-cafe-go-thong.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/thanh-ly-ban-ghe-van-phong.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\thanh-ly-ban-ghe-van-phong.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/thanh-ly-ghe-don-mat-go-247x296.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\thanh-ly-ghe-don-mat-go-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/thanh-ly-ghe-don-mat-go.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\thanh-ly-ghe-don-mat-go.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/TP5-247x296.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\TP5-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/03/TP5.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\03\TP5.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/06/banner-header-1-300x46.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\06\banner-header-1-300x46.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/06/banner-header-1-510x77.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\06\banner-header-1-510x77.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/06/banner-header-1-768x117.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\06\banner-header-1-768x117.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/06/banner-header-1.jpg
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\06\banner-header-1.jpg
+Content Type: image/jpeg
+
+Uri: https://docu.webtudong8giay.com/wp-content/uploads/2018/06/logo-1.png
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-content\uploads\2018\06\logo-1.png
+Content Type: image/png
+
+Uri: https://docu.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://docu.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.0.2
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://docu.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-includes\css\dashicons.min-1.css
+Content Type: text/css
+
+Uri: https://docu.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.2
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://docu.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-includes\css\dist\block-library\style.min-1.css
+Content Type: text/css
+
+Uri: https://docu.webtudong8giay.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://docu.webtudong8giay.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://docu.webtudong8giay.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-includes\js\dist\hooks.min-1.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-includes/js/dist/hooks.min.js?ver=c6d64f2cb8f5c6bb49caca37f8828ce3
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-includes\js\dist\i18n.min-1.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-includes/js/dist/i18n.min.js?ver=ebee46757c6a411e38fd079a7ac71d94
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-includes\js\jquery\jquery.min-1.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://docu.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fchao-moi-nguoi%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fchao-moi-nguoi%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fban-ghe-cafe-go-moi-97-thanh-ly-gia-tot-nhat%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-54
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fban-ghe-cafe-go-moi-97-thanh-ly-gia-tot-nhat%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-55
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fban-nhan-vien-chan-sat-thanh-ly-gia-re-bnv334%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fban-nhan-vien-chan-sat-thanh-ly-gia-re-bnv334%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fbo-ban-an-go-xoan-tu-nhien-ba1%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fbo-ban-an-go-xoan-tu-nhien-ba1%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fghe-cafe-nhua-hien-dai-cf1-thanh-ly-gia-tot%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-58
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fghe-cafe-nhua-hien-dai-cf1-thanh-ly-gia-tot%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-59
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fthanh-ly-150-ghe-don-cao-mat-go-thanh-ly%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fthanh-ly-150-ghe-don-cao-mat-go-thanh-ly%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fthanh-ly-150-ghe-xoay-luoi-van-phong-btp6%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fthanh-ly-150-ghe-xoay-luoi-van-phong-btp6%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fthanh-ly-300-ghe-quy-luoi-lung-cao-q12%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-64
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fthanh-ly-300-ghe-quy-luoi-lung-cao-q12%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-65
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fthanh-ly-50-bo-ban-tron-cafe-gia-re%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-60
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fthanh-ly-50-bo-ban-tron-cafe-gia-re%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-61
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fthanh-ly-500-ghe-xoay-luoi-btp4-gia-cuc-re%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fthanh-ly-500-ghe-xoay-luoi-btp4-gia-cuc-re%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fthanh-ly-ban-cafe-80cm-bcf1%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-62
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fthanh-ly-ban-cafe-80cm-bcf1%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-63
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fthanh-ly-ban-cafe-chu-nhat-1m2%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fthanh-ly-ban-cafe-chu-nhat-1m2%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fthanh-ly-ban-cafe-chu-nhat-1m2-mau-trang%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fthanh-ly-ban-cafe-chu-nhat-1m2-mau-trang%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fthanh-ly-ban-cafe-vuong-go-thong-ghep-thanh%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-56
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fthanh-ly-ban-cafe-vuong-go-thong-ghep-thanh%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-57
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fthanh-ly-ban-lam-viec-chan-sat-bnv3cs%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fthanh-ly-ban-lam-viec-chan-sat-bnv3cs%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fthanh-ly-ban-lam-viec-chan-sat-bnv7cs%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fthanh-ly-ban-lam-viec-chan-sat-bnv7cs%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fthanh-ly-ban-nhan-vien-1m2-bnv4-gia-re%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fthanh-ly-ban-nhan-vien-1m2-bnv4-gia-re%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fthanh-ly-ban-nhan-vien-bnv3-gia-tot%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fsan-pham%2Fthanh-ly-ban-nhan-vien-bnv3-gia-tot%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Ftai-khoan%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-66
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Ftai-khoan%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-67
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-ban-ghe-cafe-quan-bar%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-ban-ghe-cafe-quan-bar%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-ban-ghe-gia-dinh-sofa%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-ban-ghe-gia-dinh-sofa%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-ban-ghe-giam-doc%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-ban-ghe-giam-doc%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-ban-ghe-hoc-sinh-sinh-vien%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-ban-ghe-hoc-sinh-sinh-vien%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-ban-ghe-nhan-vien%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-ban-ghe-nhan-vien%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-ban-van-phong%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-ban-van-phong%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-ghe-van-phong%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-ghe-van-phong%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-gia-ke-sieu-thi%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-gia-ke-sieu-thi%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-giuong-tang%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-giuong-tang%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-ke-sat-ke-de-hang%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-ke-sat-ke-de-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-ke-tu-van-phong-trang-tri%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-ke-tu-van-phong-trang-tri%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-noi-that-van-phong%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-noi-that-van-phong%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-sofa-gia-re%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-sofa-gia-re%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-tu-van-phong%2F
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdocu.webtudong8giay.com%2Fthanh-ly-tu-van-phong%2F&format=xml
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/categories/48
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\categories\48
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/pages/14
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\pages\14
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/pages/47
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\pages\47
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/posts/1
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\posts\1
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/posts/297
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\posts\297
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/posts/370
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\posts\370
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/posts/373
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\posts\373
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/posts/381
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\posts\381
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/posts/383
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\posts\383
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/posts/425
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\posts\425
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/posts/427
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\posts\427
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/posts/429
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\posts\429
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/posts/431
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\posts\431
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/posts/433
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\posts\433
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/posts/435
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\posts\435
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/posts/437
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\posts\437
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/posts/439
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\posts\439
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/posts/441
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\posts\441
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product/509
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product\509
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product/658
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product\658
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product/674
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product\674
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product/676
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product\676
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product/680
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product\680
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product/681
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product\681
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product/683
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product\683
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product/685
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product\685
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product/689
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product\689
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product/691
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product\691
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product/693
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product\693
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product/695
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product\695
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product/697
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product\697
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product/699
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product\699
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product/701
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product\701
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product/703
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product\703
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product/706
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product\706
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product_cat/21
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product_cat\21
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product_cat/22
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product_cat\22
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product_cat/23
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product_cat\23
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product_cat/24
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product_cat\24
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product_cat/25
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product_cat\25
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product_cat/26
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product_cat\26
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product_cat/27
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product_cat\27
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product_cat/28
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product_cat\28
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product_cat/29
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product_cat\29
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product_cat/30
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product_cat\30
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product_cat/31
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product_cat\31
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product_cat/32
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product_cat\32
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product_cat/33
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product_cat\33
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product_cat/36
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product_cat\36
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/product_cat/37
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\product_cat\37
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/wp-json/wp/v2/users/2
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\wp-json\wp\v2\users\2
+Content Type: application/json
+
+Uri: https://docu.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\xmlrpc.php.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:regular%2C700%2Cregular%2C700|Dancing+Script:regular%2Cdefault&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\s\dancingscript\v24\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fchao-moi-nguoi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-14.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fsan-pham%252Fban-ghe-cafe-go-moi-97-thanh-ly-gia-tot-nhat%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-26.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fsan-pham%252Fban-nhan-vien-chan-sat-thanh-ly-gia-re-bnv334%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-15.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fsan-pham%252Fbo-ban-an-go-xoan-tu-nhien-ba1%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-21.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fsan-pham%252Fghe-cafe-nhua-hien-dai-cf1-thanh-ly-gia-tot%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-28.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fsan-pham%252Fthanh-ly-150-ghe-don-cao-mat-go-thanh-ly%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-25.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fsan-pham%252Fthanh-ly-150-ghe-xoay-luoi-van-phong-btp6%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-20.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fsan-pham%252Fthanh-ly-300-ghe-quy-luoi-lung-cao-q12%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-31.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fsan-pham%252Fthanh-ly-50-bo-ban-tron-cafe-gia-re%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-29.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fsan-pham%252Fthanh-ly-500-ghe-xoay-luoi-btp4-gia-cuc-re%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-22.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fsan-pham%252Fthanh-ly-ban-cafe-80cm-bcf1%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-30.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fsan-pham%252Fthanh-ly-ban-cafe-chu-nhat-1m2%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-23.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fsan-pham%252Fthanh-ly-ban-cafe-chu-nhat-1m2-mau-trang%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-24.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fsan-pham%252Fthanh-ly-ban-cafe-vuong-go-thong-ghep-thanh%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-27.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fsan-pham%252Fthanh-ly-ban-lam-viec-chan-sat-bnv3cs%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-16.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fsan-pham%252Fthanh-ly-ban-lam-viec-chan-sat-bnv7cs%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-18.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fsan-pham%252Fthanh-ly-ban-nhan-vien-1m2-bnv4-gia-re%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-19.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fsan-pham%252Fthanh-ly-ban-nhan-vien-bnv3-gia-tot%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-17.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fthanh-ly-ban-ghe-cafe-quan-bar%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fthanh-ly-ban-ghe-gia-dinh-sofa%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fthanh-ly-ban-ghe-giam-doc%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fthanh-ly-ban-ghe-hoc-sinh-sinh-vien%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fthanh-ly-ban-ghe-nhan-vien%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fthanh-ly-ban-van-phong%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-12.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fthanh-ly-ghe-van-phong%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-11.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fthanh-ly-gia-ke-sieu-thi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fthanh-ly-giuong-tang%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fthanh-ly-ke-sat-ke-de-hang%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fthanh-ly-ke-tu-van-phong-trang-tri%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fthanh-ly-noi-that-van-phong%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-13.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fthanh-ly-sofa-gia-re%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdocu.webtudong8giay.com%252Fthanh-ly-tu-van-phong%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\login-10.php
+Content Type: application/xhtml+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.0.2
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\font-awesome\4.7.0\css\font-awesome.min-1.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\docu.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+

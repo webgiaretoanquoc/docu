@@ -1,0 +1,222 @@
+/*
+Theme Name: Flatsome Child
+Description: NamKiem developed for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.11.3
+*/
+
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+.container{padding-right: 0}
+.header:not(.transparent) .header-bottom-nav.nav > li > a{    font-weight: normal;}
+.nav-dropdown-default{   
+	background: #fafbfe;padding:0; border: 0px; box-shadow: 0px 0px 0px;}
+.slider-section .has-hover .bg, .has-hover [class*="image-"] img{border-radius: 4px}
+.tieu-de-sidebar{  background: #1da107;
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 16px;
+	margin: 0;
+	height: 46px;
+	text-align: center;
+	line-height: 46px;
+	font-weight: 400;}
+
+body.framed, body.framed header, body.framed .header-wrapper, body.boxed, body.boxed header, body.boxed .header-wrapper, body.boxed .is-sticky-section{max-width:1200px}
+.slider-section .cot1 .col-inner{ padding-right: 0;    background: whitesmoke; }
+
+.slider-section .cot3{padding-right: 0}
+.slider-section .cot1, .slider-section .cot1-1 {padding-left:0}
+.slider-section .cot3 img{border-radius: 4px}
+.widget{margin-bottom:0}
+.icon-box-left, .icon-box-right{background: white; border-bottom: 1px dashed #e6e6e6;
+	padding-bottom: 3px;
+	padding-top: 3px; padding-left: 10px;    border-left: 1px solid #e6e6e6;
+	border-right: 1px solid #e6e6e6;}
+.cot1 .tieu-de-phu{height: 37px;
+	line-height: 36px;
+	font-weight: bold;
+	color: #3e3e3e;
+	text-align: center;
+	background: #f1f1f1;
+	font-size: 14px; border: 1px solid #dedede; border-top: 0
+}
+.cot1-1 .col-inner{border:1px solid #dedede}
+.box-blog-post .is-divider{display: none}
+.cot1 .post-item .box-normal .box-text .post-title{padding-left: 20px; font-weight: normal;background: url(../../uploads/2018/03/bullet2.png) no-repeat left 3px; margin-left: 10px;color: #2f2f2f;}
+.cot1 .post-item{    padding: 0 9.8px 0px;}
+.cot1 .post-item .box-normal .box-text{padding-top: 9px;
+	padding-bottom: 9px; font-size: 13px;border-bottom: 1px dashed #dedede; border-left: 1px solid #e6e6e6; border-right: 1px solid #e6e6e6}
+.cot1 .post-item .box-normal .box-text:hover{background: white}
+
+.heading {background: #f7f7f7 ;
+	min-height: 49px;
+	border-bottom: 4px solid #25b505;
+	position: relative;   height: 50px;}
+.heading h2 {
+	font-size: 16px;
+	margin: 0;
+	font-weight: 400;
+	padding: 16px; 
+}
+.heading h2 a {
+	color: #1fab00;
+	text-transform: uppercase;
+}
+.readmore {
+	position: absolute;
+	top: 12px;
+	right: 15px; font-size: 14px;
+
+	color: gray;
+	font-weight: normal; padding-right: 2px;
+	padding-top: 1px;
+	transition: all .3s;}
+.readmore:hover{color: green}
+.khuyen-mai {
+	background: #f9f9f9;
+	border: 1px dashed #1da107;
+	border-radius: 4px;
+	padding: 10px;
+	font-size: 15px; color: #424242;    margin-bottom: 10px;
+}
+.khuyen-mai strong{color: red; }
+.khuyen-mai ul{margin-top: 10px; margin-bottom: 0}
+.khuyen-mai ul li{margin-bottom: 4px}
+.product-main .product-info{font-size: 14px; padding-top:0}
+.thong-bao-chung{font-size: 14px; margin-bottom: 10px}
+.demo_store {
+	padding: 5px;
+	margin: 0;
+	text-align: center;
+	background-color: #1da107;
+	color: #FFF;
+	font-size: 15px;
+}
+.html-shop-page, .shop-container .term-description, .notice{background: #fff7e5;
+	padding: 7px;
+	border: 1px dashed #d26e4b;
+	border-radius: 4px;
+	border-left: 8px solid #d26e4b;
+	margin-bottom: 15px;
+	margin-top: 15px;
+	font-size: 15px;
+	color: #383838;}
+.shop-container .term-description{margin-top:0}
+.shop-container .term-description p{margin-bottom:0}
+.page-title-inner{padding-left: 0}
+#product-sidebar{padding-left:0; padding-right:0; border-right: 0}
+.category-page-row .large-3{padding-left:0; padding-right:0}
+.category-page-row .large-9{padding-right:0}
+.cot1{padding-left:0; padding-right:10px}
+.page-title-inner .medium-text-center{font-size: 14px}
+.breadcrumbs{text-transform: uppercase;
+	font-weight: normal;
+	letter-spacing: 0px;
+	padding: 0;
+	color: #1da107;}
+.category-page-row{padding-top:15px}
+.category-page-row .products{    background: #f1f1f1;
+	margin: 0 !important;
+	padding-top: 10px;
+	border: 1px solid #e6e6e6;
+	border-radius: 4px;
+}
+.product-small .col-inner{background: white; border: 1px solid #e6e6e6; border-radius: 4px;}
+.product-small .box-text-products{padding-left: 5px; padding-right: 5px}
+.has-hover [class*="image-"] img{border-bottom-left-radius: 0; border-bottom-right-radius:0}
+.product-title{margin-bottom: 10px; font-size: 15px}
+.product-small .price-wrapper del{display: inline-block;
+	margin-bottom: 10px;
+	font-size: 14px;
+	color: #b5b5b5;}
+.product-small .price-wrapper .price{display: block;
+	font-size: 20px;
+	color: red;}
+.product-small .price-wrapper .price ins span{color: red; font-weight: normal}
+.badge-inner{background: #ff7300;
+	font-size: 14px; font-weight: normal; padding: 7px;
+	border-radius: 4px;}
+.badge{height: 30px}
+.product-small .box-text{padding-bottom: 50px}
+.top{bottom:0 !important; top:auto} .left {
+	left: 50px;}
+.badge-container{margin-bottom:10px}
+.product-small .col-inner:hover{border: 1px solid #1da107}
+.cot-2{padding-right: 0 !important}
+.product-small .price-wrapper .rrp-price{display: inline-block;
+	font-size: 14px;
+	color: gray;
+}
+.footer-secondary{display: none}
+.product-main{padding-top: 20px; padding-bottom:0}
+.product-main .large-9{padding-right:0}
+.product-info .breadcrumbs{font-size: .85em;
+	margin: 0 0 .5em;
+	background: #f1f1f1;
+	padding: 8px;
+	border-bottom: 5px solid #1da107;}
+.breadcrumbs a{color: rgb(29, 161, 7);}
+.product-main .product-title{font-size:25px; font-weight: normal; margin-top: 20px; color: black }
+.product-main .price-wrapper .price del{font-size: 18px; font-weight: normal; color: gray; margin-bottom: 15px;    display: inline-block;}
+.product-main .price-wrapper .price ins span{font-weight: normal; color: red}
+.product-main .price-wrapper .price{font-weight: normal; color: red}
+.detailcall-1{padding: 5px 20px;}
+.detailcall-1 h3{    margin-bottom: 0;}
+.woocommerce-tabs{    background: #ffffff;
+	border: 1px solid #e6e6e6;
+	padding-left: 10px !important; padding-right: 10px !important; padding-top:30px;
+	border-radius: 4px;}
+.product-main .product-footer .product-title{font-size: 15px; color: black}
+
+.related-products-wrapper h3{background: #f1f1f1;
+	border-bottom: 5px solid #1da107;
+	padding-left: 10px;
+	color: #1da107;
+	height: 45px;
+	line-height: 13px;
+	margin-bottom: 20px;
+	margin-top: 20px; font-size: 16px; letter-spacing:0; font-weight: normal}
+.product-main .tabbed-content .tab-panels{font-size: 14px}
+.product-main .product-tabs{    border-bottom: 1px solid #ececec;}
+.page-wrapper{padding-top: 20px; padding-bottom:0}
+.page-wrapper .large-3{padding-left:0}
+.page-wrapper #content{padding-right: 0}
+.page-wrapper .col-divided{padding-right:10px}
+.blog-wrapper .post-sidebar{padding-right:10px}
+.blog-wrapper .large-9{padding-right:0; padding-left:20px}
+.box-image .out-of-stock-label{color: #fff;
+	font-weight: normal;
+	text-transform: none;
+	position: absolute;
+	top: 0;
+	font-size: 14px;
+	width: 68px;
+	right: 0;
+	background: #fff;
+	padding: 5px 0;
+	background: rgba(255, 0, 0, 0.9);
+	text-align: center;
+	opacity: .9; border-bottom-right-radius: 5px;
+}
+.product-main .badge-container{top:0; left:0; margin-left:10px; margin-top:10px}
+
+.menu-mobile .widget_nav_menu{margin-left:0}
+.menu-mobile .widget_nav_menu ul>li{padding-left:20px}
+.menu-mobile .widget_nav_menu ul>li>ul{padding-left:0 !important; background: #55ac22; margin-left:0}
+.menu-mobile .widget_nav_menu .sub-menu li{border-bottom: 1px solid #a3c378}
+.menu-mobile .widget_nav_menu .sub-menu li a{font-size: 16px}
+.menu-mobile .widget_nav_menu ul>li a{font-size: 18px; padding-top: 7px; padding-bottom:7px}
+.widget .toggle{margin-right:20px}
+.menu-mobile .col{padding-bottom:0px; padding-left: 10px; padding-right: 10px}
+.off-canvas-left.dark .mfp-content{background: white}
+.header-block .cot1{padding:0}
+
+
+
+@media only screen and (max-width: 48em) {
+	/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+}
+@media (max-width: 549px){.left{left:19%} .cot-2{padding-right:10px !important}}
